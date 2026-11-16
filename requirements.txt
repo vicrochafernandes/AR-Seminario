@@ -1,0 +1,4 @@
+roboflow
+ultralytics 
+mediapipe 
+opencv-python
